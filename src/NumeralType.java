@@ -1,0 +1,4 @@
+enum NumeralType{
+    arabic, roman
+}
+
